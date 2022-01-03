@@ -1,0 +1,57 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Catppuccin",
+    "short_name": "Catppuccin",
+    "theme": {
+        "images": {
+            "additional_backgrounds": [
+                "assets/images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+            ]
+        },
+        "properties": {
+            "additional_backgrounds_alignment": ["top"],
+            "additional_backgrounds_tiling": ["repeat"]
+        },
+        "colors": {
+            "toolbar": "rgb(21, 18, 28)",
+            "toolbar_text": "rgb(201, 203, 255)",
+            "frame": "rgb(30, 30, 40)",
+            "tab_background_text": "rgb(183, 229, 230)",
+            "toolbar_field": "rgb(30, 30, 40)",
+            "toolbar_field_text": "rgb(245, 224, 220)",
+            "tab_line": "rgb(201, 203, 255)",
+            "popup": "rgb(21, 18, 28)",
+            "popup_text": "rgb(245, 224, 220)",
+            "button_background_active": "rgb(51, 46, 65)",
+            "button_background_hover": "rgb(51, 46, 65)",
+            "frame_inactive": "rgb(51, 46, 65)",
+            "icons_attention": "rgb(227, 140, 143)",
+            "icons": "rgb(247, 190, 149)",
+            "ntp_background": "rgb(30, 30, 40)",
+            "ntp_text": "rgb(245, 224, 220)",
+            "popup_border": "rgb(51, 46, 65)",
+            "popup_highlight_text": "rgb(21, 18, 28)",
+            "popup_highlight": "rgb(201, 203, 255)",
+            "sidebar_border": "rgb(51, 46, 65)",
+            "sidebar_highlight_text": "rgb(21, 18, 28)",
+            "sidebar_highlight": "rgb(201, 203, 255)",
+            "sidebar_text": "rgb(245, 224, 220)",
+            "sidebar": "rgb(21, 18, 28)",
+            "tab_background_separator": "rgb(51, 46, 65)",
+            "tab_loading": "rgb(235, 221, 170)",
+            "tab_selected": "rgb(21, 18, 28)",
+            "tab_text": "rgb(245, 224, 220)",
+            "toolbar_bottom_separator": "rgb(51, 46, 65)",
+            "toolbar_field_border_focus": "rgb(201, 203, 255)",
+            "toolbar_field_border": "rgb(51, 46, 65)",
+            "toolbar_field_focus": "rgb(21, 18, 28)",
+            "toolbar_field_highlight_text": "rgb(21, 18, 28)",
+            "toolbar_field_highlight": "rgb(201, 203, 255)",
+            "toolbar_field_separator": "rgb(51, 46, 65)",
+            "toolbar_field_text_focus": "rgb(245, 224, 220)",
+            "toolbar_top_separator": "rgb(51, 46, 65)",
+            "toolbar_vertical_separator": "rgb(51, 46, 65)"
+        }
+    }
+}
