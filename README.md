@@ -5,9 +5,7 @@
 
 <p align="center">Warm mid-tone dark theme to show off your vibrant self!</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/firefox/dev/assets/screenshot.png"/>
-</p>
+  ![screenshot](https://user-images.githubusercontent.com/88514414/147991879-e1a36d12-21eb-4546-9368-0a9e31b070a8.png)
 
 # Install methods 🦊
 
