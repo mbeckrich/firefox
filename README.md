@@ -9,19 +9,17 @@
 
 # Install methods 🦊
 
-The easy way:
+Firefox Color install:
 
-* Visit the Firefox theme page [here](https://addons.mozilla.org/en-US/firefox/themes/catppuccin-pastel-colors) and press "Install Theme."
+Take [this link](https://color.firefox.com/?theme=XQAAAAJ-BAAAAAAAAABBKYhm849SCicxcUhA3DJozHnOMuotJJD6g8Pm3cQfre8UuPtfoe27CkOhF5K0kjPKLl47NC3M82HSJVAlijHyOkqbz17j9RxsvLkK90ZjAZa3S1cTitr2ztUlrrnQmSG6lzTei5xA1-gg-gAJBnigFVuYTsy6qVF9ttM-3ikoxE5Ot5eZE6rGw09pPhLfYiWjWaCy3TJ9WM-h-8kVr7TvALTSI10Tla6_7CIBGHfkPbh3D2hJkOXv3da3efnZmLOGRPHy4yOBFfnwj2j88Sku0QoVVz_JGJWU1U07Z3V8n-i26F38wEoHD6Dp07-EQXeashjLu7LHpeKABcF55Zrni_vgExfZth1imEqnkbXurGlRNLhjEgtsoiHX_nkiaghUIblQcRbe43VIxBUYiJPy_95aE1SbUjRNw5GVcMotA4Eav3VSaF3sEi6XWSeyG1H7f4tPhe4j078chL5vlBr70fdU2LnKd6zbntTA9N3RLZEYJO1sOZN4Mz4ofLcQk4DkqmZTYUfxc6BzO-lQ04zKZ_DswdYrayaSZ0DFh_81ROP-cUJDElebCgM2_4w3JuA) to the Firefox Color page and apply the theme colors.
 
-Or, if you prefer installing manually:
+Manual install:
 
 * Clone this repo using `git clone https://github.com/catppuccin/firefox`. Refer to [this](https://extensionworkshop.com/documentation/publish/package-your-extension/) Firefox Extension Workshop article for next steps.
 
 # Changes and further customization 🔮
 
-If you have suggestions regarding colors in the theme, I'm all ears. 🌽
-
-If you just want to make your own tweaks, the simplest way is probably to use [this link](https://color.firefox.com/?theme=XQAAAAJ-BAAAAAAAAABBKYhm849SCicxcUhA3DJozHnOMuotJJD6g8Pm3cQfre8UuPtfoe27CkOhF5K0kjPKLl47NC3M82HSJVAlijHyOkqbz17j9RxsvLkK90ZjAZa3S1cTitr2ztUlrrnQmSG6lzTei5xA1-gg-gAJBnigFVuYTsy6qVF9ttM-3ikoxE5Ot5eZE6rGw09pPhLfYiWjWaCy3TJ9WM-h-8kVr7TvALTSI10Tla6_7CIBGHfkPbh3D2hJkOXv3da3efnZmLOGRPHy4yOBFfnwj2j88Sku0QoVVz_JGJWU1U07Z3V8n-i26F38wEoHD6Dp07-EQXeashjLu7LHpeKABcF55Zrni_vgExfZth1imEqnkbXurGlRNLhjEgtsoiHX_nkiaghUIblQcRbe43VIxBUYiJPy_95aE1SbUjRNw5GVcMotA4Eav3VSaF3sEi6XWSeyG1H7f4tPhe4j078chL5vlBr70fdU2LnKd6zbntTA9N3RLZEYJO1sOZN4Mz4ofLcQk4DkqmZTYUfxc6BzO-lQ04zKZ_DswdYrayaSZ0DFh_81ROP-cUJDElebCgM2_4w3JuA) to the Firefox Color page containing the theme and refer to [this MDN article](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme#colors) to see where each color goes in the browser UI.
+To make your own tweaks, use [this link](https://color.firefox.com/?theme=XQAAAAJ-BAAAAAAAAABBKYhm849SCicxcUhA3DJozHnOMuotJJD6g8Pm3cQfre8UuPtfoe27CkOhF5K0kjPKLl47NC3M82HSJVAlijHyOkqbz17j9RxsvLkK90ZjAZa3S1cTitr2ztUlrrnQmSG6lzTei5xA1-gg-gAJBnigFVuYTsy6qVF9ttM-3ikoxE5Ot5eZE6rGw09pPhLfYiWjWaCy3TJ9WM-h-8kVr7TvALTSI10Tla6_7CIBGHfkPbh3D2hJkOXv3da3efnZmLOGRPHy4yOBFfnwj2j88Sku0QoVVz_JGJWU1U07Z3V8n-i26F38wEoHD6Dp07-EQXeashjLu7LHpeKABcF55Zrni_vgExfZth1imEqnkbXurGlRNLhjEgtsoiHX_nkiaghUIblQcRbe43VIxBUYiJPy_95aE1SbUjRNw5GVcMotA4Eav3VSaF3sEi6XWSeyG1H7f4tPhe4j078chL5vlBr70fdU2LnKd6zbntTA9N3RLZEYJO1sOZN4Mz4ofLcQk4DkqmZTYUfxc6BzO-lQ04zKZ_DswdYrayaSZ0DFh_81ROP-cUJDElebCgM2_4w3JuA) to the Firefox Color page containing the theme and refer to [this MDN article](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme#colors) to see where each color goes in the browser UI.
 
 This theme uses the following colors from the [Catppuccin palette
 ](https://github.com/catppuccin/catppuccin#-palette):
