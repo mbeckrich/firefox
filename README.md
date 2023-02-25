@@ -1,3 +1,4 @@
+**‼️ This is an old theme made before the official Firefox Catppuccin theme existed. Please see [this repository](https://github.com/catppuccin/firefox) for the real deal.**
 
 <p align="center">
   <h2 align="center">😸 Catppuccin for Firefox</h2>
